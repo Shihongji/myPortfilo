@@ -344,6 +344,14 @@ h6 {
   background-color: var(--btnColor);
   border: none;
 }
+.foot_p{
+  background-color: var(--mainColor);
+  font-size: 14px;
+  align-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 1em 1em;
+}
 @media screen and (max-width: 1200px) {
   .main-container {
     width: 95%;
